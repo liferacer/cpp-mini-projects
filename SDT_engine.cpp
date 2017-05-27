@@ -4,10 +4,6 @@ Problem 20-
 Design a SDT Engine such that it evaluates the expression for a given desk calculator
 grammar.
 
-ANUBHAV SINGHAL --14BCE0904
-ROHIT GOYNAR -----14BCE0395
-AMAR BABUTA ------14BCE0377
-
 */
 #include <stdio.h>
 #include <conio.h>
